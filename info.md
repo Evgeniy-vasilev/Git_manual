@@ -21,3 +21,7 @@ git add file_name или  git add .
 
 >git diff
 
+Чтобы удалить ветку с **замерженными изменениями**, мы используем:  
+1. git branch -d branch_name  
+Чтобы удалить ветку с **незамерженными изменениями**, мы используем:  
+2. git branch -D branch_name
