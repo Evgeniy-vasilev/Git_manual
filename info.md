@@ -21,3 +21,5 @@ git add file_name или  git add .
 
 >git diff
 
+Чтобы вывести все ветки на экран мы используем команду:
+> git branch
