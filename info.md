@@ -23,3 +23,10 @@ git add file_name или  git add .
 
 Чтобы вывести все ветки на экран мы используем команду:
 > git branch
+
+Чтобы создать новую ветку, мы используем команду:
+* git branch branch_name
+
+Новые команды:
++ git commit -a -m "message" -сохранение **текущего** файла и коммит
+* git checkout -b branch_name - создание и переход к ветке branch_name
