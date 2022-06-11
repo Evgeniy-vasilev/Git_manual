@@ -30,3 +30,6 @@ git add file_name или  git add .
 ## Новые команды:
 + git commit -a -m "message" -сохранение **текущего** файла и коммит
 * git checkout -b branch_name - создание и переход к ветке branch_name
+
+Чтобы перейти к другой ветке, используем:
+1. git checkout название ветки
