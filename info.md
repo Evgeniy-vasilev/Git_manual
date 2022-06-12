@@ -38,4 +38,10 @@ git add file_name или  git add .
 1. git branch -d branch_name  
 
 Чтобы удалить ветку с **незамерженными изменениями**, мы используем:   
-2. git branch -D branch_name  
+2. git branch -D branch_name
+
+Чтобы создать URL_ссылку, нужно заключить ее в <>. Например: <http://example.com/>
+
+
+
+
